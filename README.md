@@ -2,7 +2,6 @@
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sviridov.dmitry@niuitmo.ru)](mailto:sviridov.dmitry@niuitmo.ru)
 [![VK Badge](https://img.shields.io/badge/-VK-4d7198?style=flat-square&labelColor=4d7198&logo=vk&logoColor=white&link=https://vk.com/slamach)](https://vk.com/slamach)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&labelColor=dd2a7b&logo=instagram&logoColor=white&link=https://instagram.com/slamach)](https://instagram.com/slamach)
 ![Visitors Badge](https://komarev.com/ghpvc/?username=slamach&style=flat-square&label=Visitors)
 
 I'm Dmitry, a Full Stack Developer from St. Petersburg, Russia.  
