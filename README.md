@@ -10,7 +10,7 @@ Currently studying at [ITMO University](http://itmo.ru) 🚀
 ```javascript
 const technologies = {
     frontend: ["HTML", "CSS", "JavaScript", "React"],
-    backend: ["Java", "C#", "PHP"],
+    backend: ["Java", "PHP"],
     misc: ["Python", "C", "SQL", "Git", "Shell"]
 };
 ```
