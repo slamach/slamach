@@ -4,7 +4,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&labelColor=0088cc&logo=telegram&logoColor=white&link=https://t.me/slamach)](https://t.me/slamach)
 ![Visitors Badge](https://komarev.com/ghpvc/?username=slamach&style=flat-square&label=Visitors)
 
-I'm Dmitry, a Frontend from St. Petersburg, Russia.  
+I'm Dmitry, a Frontend Developer from St. Petersburg, Russia.  
 Currently studying at [ITMO University](http://itmo.ru) 🚀
 
 ```javascript
