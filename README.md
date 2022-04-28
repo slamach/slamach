@@ -5,7 +5,7 @@
 ![Visitors Badge](https://komarev.com/ghpvc/?username=slamach&style=flat-square&label=Visitors)
 
 I'm Dmitry, a Frontend Developer from St. Petersburg, Russia.  
-Currently studying at [ITMO University](http://itmo.ru) and creating beautiful projects for [Palindrome](https://palindrome.media/) 🚀
+Currently studying at [ITMO University](http://itmo.ru) and creating beautiful projects as a freelancer 🚀
 
 ```javascript
 const technologies = {
