@@ -4,7 +4,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white&labelColor=0088cc&link=https://t.me/slamach)](https://t.me/slamach)
 
 I'm Dmitrii, a front-end developer based in Belgrade, Serbia.  
-Currently working at [Yandex](https://yandex.com/company/) 🚀
+Currently working at [Semrush](https://www.semrush.com/company/) 🚀
 
 ```javascript
 const technologies = {
